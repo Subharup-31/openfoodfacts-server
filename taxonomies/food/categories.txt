@@ -72606,6 +72606,32 @@ nl: Wilde perziken, Platte perziken
 sales_format:en: package, weight
 
 < en: Peaches
+en: Flat peaches, Saturn peaches, Donut peaches, Doughnut peaches, Paraguayo peaches
+ar: دراق مبلط
+ca: Préssec pla
+cs: Plochá broskev
+de: Plattpfirsich
+es: Paraguaya
+et: Lamevirsik
+fa: هلو انجیری
+fi: Lattapersikka
+gl: Pexego chato
+hy: Թզադեղձ
+it: Pesca tabacchiera
+ja: バントウ
+ko: 납작 복숭아
+la: Prunus persica var. platycarpa
+ru: Инжирный персик
+sl: Ploščata breskev
+sr: Пљосната бресква
+sv: Paraguayo
+tg: Анҷиршафтолу
+vi: Bàn đào
+zh: 蟠桃
+sales_format:en: package, weight
+wikidata:en: Q2702783
+
+< en: Peaches
 en: Peach pulp and peel
 fr: Pulpe et peau de pêche
 agribalyse_food_code:en: 13043
